@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 It is the second line.
 Change Of Alice
 New Line after changes on Bob at master
+More Text here
